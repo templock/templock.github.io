@@ -303,7 +303,7 @@ class Config:
         self.lang_interface = ''
         self.ctry = ''
         self.safe = False
-        self.dark = False
+        self.dark = True
         self.nojs = False
         self.near = ''
         self.alts = False
